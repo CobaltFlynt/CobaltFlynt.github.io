@@ -1,0 +1,9 @@
+Animals: 22
+
+Fantasy:16
+
+Modular:10
+
+Other: 3
+
+Total:51
